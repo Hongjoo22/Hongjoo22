@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Hi!%20I'm%20Hongjoo!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=:wave:Hi!%20I'm%20Hongjoo!:wave:&fontAlign=50&fontAlignY=70&fontSize=80&fontColor=000000)
 ## 백준 티어
 [![Solved.ac
 dlghdwn10](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlghdwn10)](https://solved.ac/dlghdwn10)
@@ -7,7 +7,7 @@ dlghdwn10](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlghdwn10)](https:/
 ![Hongjoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hongjoo22&show_icons=true&theme=jolly)
 
 ## My Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hongjoo22&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hongjoo22&langs_count=5&hide=smalltalk)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <center>
