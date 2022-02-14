@@ -1,4 +1,4 @@
-:wave:![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Hi!%20I'm%20Hongjoo!&fontAlign=50&fontAlignY=70&fontSize=80&fontColor=000000):wave:
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Hi!%20I'm%20Hongjoo!&fontAlign=50&fontAlignY=70&fontSize=80&fontColor=000000)
 ## 백준 티어
 [![Solved.ac
 dlghdwn10](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlghdwn10)](https://solved.ac/dlghdwn10)
