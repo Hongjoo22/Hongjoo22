@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 dlghdwn10](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlghdwn10)](https://solved.ac/dlghdwn10)
 
 ## My status
-![Hongjoo's GitHub stats](https://github-readme-stats.vercel.app/api?Hongjoo22=anuraghazra&show_icons=true&theme=radical)
+![Hongjoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
