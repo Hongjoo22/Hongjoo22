@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=30&section=header&text=""&fontSize=20)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=&fontSize=20)
 
 ## 백준 티어
 [![Solved.ac
@@ -9,3 +9,5 @@ dlghdwn10](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlghdwn10)](https:/
 
 ## My Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hongjoo22&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
