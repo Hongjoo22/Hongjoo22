@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=30&section=header&text=""&fontSize=20)
+
 ## 백준 티어
 [![Solved.ac
 dlghdwn10](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlghdwn10)](https://solved.ac/dlghdwn10)
