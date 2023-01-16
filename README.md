@@ -24,5 +24,5 @@ dlghdwn10](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlghdwn10)](https:/
   ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
   
 </center>
-
+ 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
